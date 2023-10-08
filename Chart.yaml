@@ -19,8 +19,8 @@ keywords:
 - dynamic service discovery
 - configuration and service management platform
 maintainers:
-- email: ygqygq2@qq.com
-  name: ygqygq2
+- email: mail@bsgchina.com
+  name: bsg
 name: nacos
 sources:
 - https://github.com/alibaba/nacos
